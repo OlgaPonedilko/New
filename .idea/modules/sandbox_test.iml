@@ -9,17 +9,7 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="sandbox_main" />
-    <orderEntry type="module-library" scope="TEST">
-      <library name="testng">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/lib/testng.jar!/" />
-          <root url="jar://$MODULE_DIR$/lib/jcommander.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="Gradle: org.testing:testing:6.9.10" level="project" />
   </component>
   <component name="TestModuleProperties" production-module="sandbox_main" />
 </module>
