@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.buschmais.jqassistant.plugin:junit:1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant.plugin/junit/1.4/78f6c478b4531600e142b642f98d6732ef4029b0/junit-1.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.buschmais.jqassistant.plugin/junit/1.4/2220f3a990d4a10049af17a2c8e100d3d5ddc5b0/junit-1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
